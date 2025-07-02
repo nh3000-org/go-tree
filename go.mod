@@ -1,4 +1,4 @@
-module github.com/johnfercher/go-tree
+module github.com/nh3000-org/go-tree
 
 go 1.24
 
