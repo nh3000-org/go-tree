@@ -3,7 +3,7 @@ package node_test
 import (
 	"fmt"
 
-	"github.com/johnfercher/go-tree/node"
+	"github.com/nh3000-org/go-tree/node"
 )
 
 // New demonstrates how to create a node with ID.
