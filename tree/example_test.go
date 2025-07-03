@@ -3,9 +3,9 @@ package tree_test
 import (
 	"fmt"
 
-	"github.com/johnfercher/go-tree/tree"
+	"github.com/nh3000-org/go-tree/tree"
 
-	"github.com/johnfercher/go-tree/node"
+	"github.com/nh3000-org/go-tree/node"
 )
 
 // ExampleNew demonstrates how to create tree.
