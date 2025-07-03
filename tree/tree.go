@@ -1,6 +1,6 @@
 package tree
 
-import "github.com/johnfercher/go-tree/node"
+import "github.com/nh3000-org/go-tree/node"
 
 // nolint:structcheck,gocritic
 // Tree represents the main entity of the package.
